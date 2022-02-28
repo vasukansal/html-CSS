@@ -1,0 +1,225 @@
+*{
+    padding: 6px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+.heading{text-align: center;
+background-color:rgb(14, 239, 243);
+text-decoration:wavy;
+position: sticky;
+
+}
+.wsec{border: 5px solid white;   
+padding:3px;
+background-color:#090df8d3;
+border-radius: 22px;}
+
+.heading:hover{
+color: rgba(55, 177, 140, 0.589);
+
+}
+.subhead2:hover,.subhead:hover,.CW:hover{
+    color: aqua;
+}
+h2:hover{
+    color: cornsilk;
+}
+input[type="Submit"]{
+    border:none;
+    background-color: rgb(61, 108, 196);
+    border-radius: 5px;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    padding: 10px;
+    margin:5px;
+    width: 15%;
+}
+input[type="Submit"]:hover{
+    background-color: rgb(117, 183, 238);
+    cursor: pointer;
+}
+.link{
+    color: inherit;
+}
+th,tr,td{
+    border: 5px solid black;
+    
+}
+.CW{
+    border: none;
+}
+table{
+    
+    margin:15px
+}
+#table{
+    border-collapse: collapse;
+    
+}
+.tableh:hover{
+    color: aquamarine;
+}
+
+#imgvs{
+    float: right;
+    position: relative;
+    bottom: 10px;
+    right: 500px;
+    height: 25%;
+}
+#imgak{
+    float: right;
+    position: relative;
+    bottom: 10px;
+    right: 493px;
+    height: 25%;
+}
+#imgdn{
+    float: right;
+    position: relative;
+    bottom: 10px;
+    right: 502px;
+    height: 25%;
+}
+#imgsh{
+    float: right;
+    position: relative;
+    bottom: 10px;
+    right: 505px;
+    height: 25%;
+}
+#imgtr{
+    float: right;
+    position: relative;
+    bottom: 10px;
+    right: 503px;
+    height: 25%;
+}
+#imgop{
+    float: right;
+    position: relative;
+    bottom: 10px;
+    right: 505px;
+    height: 25%;
+}
+#imgops2{
+    float: right;
+    position: relative;
+    bottom: 10px;
+    right: 490px;
+    height: 25%;
+}
+#imgmha{
+    float: right;
+    position: relative;
+    bottom: 10px;
+    right: 505px;
+    height: 25%;
+}
+#imgmhas2{
+    float: right;
+    position: relative;
+    bottom: 10px;
+    right: 485px;
+    height: 25%;
+}
+#imgmhas3{
+    float: right;
+    position: relative;
+    bottom: 10px;
+    right: 500px;
+    height: 25%;
+}
+#imgmhas4{
+    float: right;
+    position: relative;
+    bottom:10px;
+    right:500px;
+    height: 25%;
+}
+#imgmhas5{
+    float: right;
+    position: relative;
+    bottom:10px;
+    right:500px;
+    height: 25%;
+}
+#imgjs{
+    float:right;
+    position:relative;
+    bottom:10px;
+    right:484px;
+    height:25%;
+}
+#imgdss1{
+    float:right;
+    position:relative;
+    bottom:10px;
+    right:530px;
+    height:25%;
+}
+#imgdsmt{
+    float:right;
+    position:relative;
+    bottom:10px;
+    right:498px;
+    height:25%;
+}
+#imgas1{
+    float:right;
+    position:relative;
+    bottom:10px;
+    right:498px;
+    height:25%;
+}
+#imgmn{
+    float:right;
+    position: relative;
+    bottom:10px;
+    height:25%;
+    right: 510px;
+}
+#imgaots1{
+    float:right;
+    position:relative;
+    height: 25%;
+    bottom:10px;
+    right:504px;
+}
+#imgaots2{
+    float:right;
+    height: 25%;
+    bottom:10px;
+    right:504px;
+    position: relative;
+}
+#imgaots3p1{
+    float:right;
+    position: relative;
+    height:25%;
+    bottom:10px;
+    right:494px
+}
+#imgaots3p2{
+    float:right;
+    position:relative;
+    height:25%;
+    bottom:10px;
+    right:446px;
+}
+#imgaots4p1{
+    float:right;
+    position:relative;
+    height:25%;
+    bottom:10px;
+    right:500px;
+}
+#imgdss2{
+
+}
+#imgtgs1{
+
+}
+#imgtgs2{
+    
+}

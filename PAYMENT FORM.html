@@ -1,0 +1,48 @@
+<!-- PAYMENT FORM-->
+<!-- 1st. USER DETAILS-->
+<!-- 2nd. PAYMENT DETAILS-->
+<html>
+    <head>
+        <title>
+            PAYMENT GATEWAY
+        </title>
+        <link rel="stylesheet" href="stylep.css">
+        <p><h1>PAYMENT FORM</h1></p>
+    </head>
+    <hr><hr>
+    <body>
+        <div class="abc">
+        <form>
+            <h2 class="user">USER DETAILS</h2><hr>
+            <p id="name">NAME : *<input type="text" name="Name" required placeholder="ex. elon musk"></p>
+            
+            <feildset> 
+                <legend>*Gender-- </legend>               
+                MALE <input type="radio" name="gender" id="gender" required>
+                FEMALE <input type="radio" name="gender" id="gender" required>
+                OTHER<input type="radio" name="gender" id="gender" required>              
+            </feildset> 
+               
+            <p>ADDRESS :<br> 
+                <textarea name="address" id="adrress" rows="3" cols="50" placeholder="000 XXX-Colony City, Country"></textarea></p>
+            <p>EMAIL : *<input type="email" name="email" id="email" required placeholder="xyz@gmail.com"></p>
+            <p>PHONE NO. : *<input type="number" name="phone no." id="phone no." required placeholder="0000000000"></p>
+            <p>PINCODE : *<input type="number" name="Pincode" id="pincode" required placeholder="00000"></p>
+            <hr>
+            <h2 class="pinfo">PAYMENT DETAILS</h2>
+            <p>CARD TYPE : *
+                <select name="card type" id="card type" required>
+                    <option value="">-Select Card Type-</option>
+                    <option value="DEBIT">Debit</option>
+                    <option calue="CREDIT">Credit</option>
+                </select>
+            </p>
+            <p>Card-No. : *<input type="number" name="Card.No." id="Card.No." required></p>
+            <p>Card Exp.No. : *<input type="date" name="C-Exp.date" id="C-Exp.date" required>
+            </p>
+            <p>CVV : *<input type="password" name="cvv" id="cvv" required></p>
+            <input type="submit" value="Pay Now">
+        </form>
+        </div>
+    </body>
+</html>
